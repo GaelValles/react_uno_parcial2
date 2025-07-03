@@ -1,7 +1,7 @@
 {
   "name": "exa",
-  "homepage": "https://gaelvalles.github.io/react_uno_parcial2/",
   "version": "0.1.0",
+  "homepage": "https://gaelvalles.github.io/react_uno_parcial2/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
